@@ -1,0 +1,8 @@
+pandas
+streamlit
+pydantic
+python-dotenv
+openai
+langgraph
+openpyxl
+google-genai
